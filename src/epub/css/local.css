@@ -33,13 +33,13 @@ footer{
 	margin-top: 1em;
 }
 
-#chapter-20 blockquote p{
+#chapter-20 blockquote:last-of-type p{
 	font-variant: small-caps;
 	text-align: center;
 	text-indent: 0;
 }
 
-#chapter-20 blockquote p:first-child{
+#chapter-20 blockquote:last-of-type p:first-child{
 	font-size: larger;
 }
 
