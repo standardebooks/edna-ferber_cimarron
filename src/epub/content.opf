@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edna-ferber/cimarron</dc:identifier>
 		<dc:date>2026-01-01T16:00:28Z</dc:date>
@@ -44,12 +44,12 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008108624</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A colorful frontiersman and his southern belle wife migrate to Oklahoma during the 1889 land rush to start a new life.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A colorful frontiersman and his southern belle wife migrate to Oklahoma during the 1889 land rush to start a new life.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Yancey Cravat is a flamboyant, larger-than-life frontiersman who can kill a man with a quick draw just as easily as he can quote Milton and Shakespeare or charm a courtroom jury. He’s married to Sabra, a Kansas woman from a grand, blue-blooded Southern family. Together they decide to leave their home to claim a homestead in Oklahoma during the 1889 land rush.&lt;/p&gt;
 			&lt;p&gt;As they navigate the adventures and challenges of life on the frontier, Yancey starts a newspaper and Sabra begins cultivating society. But as the town booms and their newspaper prospers, Yancey—and their son—crave adventure of the kind that small-town life can’t provide, while Sabra’s ambitions expand beyond her homestead, and eventually the town. The story chronicles their prototypical frontier struggles against the backdrop of a proud Native American nation, the Osage, who are facing both physical and cultural conquest.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Cimarron&lt;/i&gt; was enormously successful, becoming the best-selling novel of 1930 when the Great Depression left people people desperate for stories of escape and adventure. It was later issued as an Armed Services Edition during World War II, cementing its legacy as part of American mythology for an entirely new generation.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.208929</dc:source>
 		<meta property="schema:wordCount">104560</meta>
